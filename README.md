@@ -1,4 +1,4 @@
-# Modele uczenia maszynowego udostępnione przez OPI-PIB
+# Modele uczenia maszynowego udostępnione przez OPI PIB
 
 ## Neuronowe modele języka
 
